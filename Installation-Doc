@@ -1,4 +1,4 @@
-This is a document for installing Ovirt 4.4 on CentOs 8.3 as a self-hosted engine.
+This is a document for installing Ovirt 4.4 on CentOs 8.3 or 8.5 as a self-hosted engine.
 
 Explain what is Ovirt (its definition here) and what is a self hosted engine. Then mentioned some of the pre-req such as DNS.
 
